@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "iPogo",
+      "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "Niantic, Inc & iPogo",
       "version": "0.335.1",
