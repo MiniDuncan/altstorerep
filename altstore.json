@@ -13,7 +13,11 @@
       "localizedDescription": "iTransmission is a new and revamped version of the original app. iTransmission is a fast, easy, and free BitTorrent client for iOS. This app is powered by the latest Transmission library and will be updated when the awesome Transmission team updates the Transmission library. \n\nFeatures of the app:\n- Download torrents from magnet or local files.\n- Download torrents from a built-in web browser.\n- Download magnet links from Safari.\n- Open external torrent files via the app.\n- Local notifications on download finish.\n- Select files to download or not.\n- Supports File app and file sharing.\n- Download in the background.\n- Many options to configure and customize your torrent downloading.\n- Dark Mode.\n\nSupports iOS 13 and up.",
       "iconURL": "https://miniduncan.github.io/altstorerep/itransmission-logo-200px.png",
       "tintColor": "#c223ad",
-      "size": 3718662
+      "size": 3718662,
+      "screenshotURLS": [
+        "https://example.com/screenshots/itransmission1.png",
+        "https://example.com/screenshots/itransmission2.png"
+      ]
     },
     {
       "name": "Spotify++",
@@ -26,7 +30,11 @@
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n Sposify is a Spotify IOS app tweak that adds various enhancements to the Spotify IOS application.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "#14873d",
-      "size": 79102641
+      "size": 79102641,
+      "screenshotURLS": [
+        "https://example.com/screenshots/spotifypp1.png",
+        "https://example.com/screenshots/spotifypp2.png"
+      ]
     },
     {
       "name": "iPogo",
@@ -39,7 +47,14 @@
       "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
       "iconURL": "https://ipogo.app/repo/CydiaIcon.png",
       "tintColor": "#0d5666",
-      "size": 153485851
+      "size": 153485851,
+      "screenshotURLS": [
+        "https://ipogo.app/assets/img/feature-iphone-1.png",
+        "https://ipogo.app/assets/img/location-1.jpg",
+        "https://ipogo.app/assets/img/location-2.jpg",
+        "https://ipogo.app/assets/img/location-3.jpg",
+        "https://ipogo.app/assets/img/location-4.jpg"
+      ]
     }
   ]
 }
