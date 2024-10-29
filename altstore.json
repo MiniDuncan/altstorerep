@@ -24,7 +24,6 @@
       "version": "2.3.3",
       "versionDate": "2024-10-25",
       "size": 79102641,
-      "minOSVersion": "15.0",
       "changelog": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
       "versionDescription": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
       "subtitle": "Spotify Ad-Free, and Other QOL Enhancements.",
