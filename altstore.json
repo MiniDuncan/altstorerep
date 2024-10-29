@@ -7,12 +7,12 @@
       "bundleIdentifier": "com.alexsvitlov.iTransmission",
       "developerName": "Alex Svitlov",
       "version": "1.0.0",
-      "versionDate": "2024-01-01",  // Update this to the release date
+      "versionDate": "2024-01-01", 
       "versionDescription": "Initial release",
       "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
       "localizedDescription": "A BitTorrent client for iOS.",
-      "iconURL": "https://raw.githubusercontent.com/alexsvitlov/iTransmission/master/icon.png",  // Update if you have a different icon URL
-      "tintColor": "#FF5733"  // You can change this to your preferred color
+      "iconURL": "https://raw.githubusercontent.com/alexsvitlov/iTransmission/master/icon.png",
+      "tintColor": "#FF5733"
     }
   ]
 }
