@@ -15,15 +15,7 @@
       "localizedDescription": "A BitTorrent client for iOS.",
       "iconURL": "https://raw.githubusercontent.com/alexsvitlov/iTransmission/master/icon.png",
       "tintColor": "#FF5733",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2024-01-01",
-          "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
-          "localizedDescription": "Initial release.",
-          "size": 3718662
-        }
-      ]
+      "size": 3718662
     }
   ],
   "website": "https://dxncanrepository.com",
