@@ -6,6 +6,9 @@
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.dxncan.itransmission",
+        "com.example.anotherapp"
     ],
     "apps": [
         {
