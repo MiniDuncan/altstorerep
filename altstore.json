@@ -1,5 +1,5 @@
 {
-    "name": "Dxncan Repository",
+    "name": "My Example Source",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -7,14 +7,14 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.dxncan.itransmission",
+        "com.example.myapp",
         "com.example.anotherapp"
     ],
     "apps": [
         {
-            "name": "iTransmission",
-            "bundleIdentifier": "com.dxncan.itransmission",
-            "developerName": "iTransmission",
+            "name": "My Example App",
+            "bundleIdentifier": "com.example.myapp",
+            "developerName": "Example Developer",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -30,10 +30,18 @@
             ],
             "versions": [
                 {
+                    "version": "1.1",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                },
+                {
                     "version": "1.0",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
-                    "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
+                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
                     "localizedDescription": "Initial release."
                 }
             ],
