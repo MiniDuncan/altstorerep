@@ -16,6 +16,26 @@
       "iconURL": "https://miniduncan.github.io/altstorerep/itransmission-logo-200px.png",
       "tintColor": "#c223ad",
       "size": 3718662
+    },
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "Whoeevee & Aesthyrica",
+      "contact": {
+        "web": "https://github.com/SpotCompiled"
+      },
+      "version": "2.3.3",
+      "versionDate": "2024-10-25",
+      "size": 79102641,
+      "minOSVersion": "15.0",
+      "changelog": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
+      "versionDescription": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
+      "subtitle": "Spotify Ad-Free, and Other QOL Enhancements.",
+      "version": "2.3.3",
+      "localizedDescription": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
+      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.3/SpotC++.v2.3.3_v8.9.86_ALTSTORESOURCE_ONLY.ipa",
+      "size": 79102641,
+      "minOSVersion": "15.0"
     }
   ],
   "website": "https://dxncanrepository.com",
