@@ -9,7 +9,7 @@
       "bundleIdentifier": "com.alexsvitlov.iTransmission",
       "developerName": "Alex Svitlov",
       "version": "1.0.0",
-      "versionDate": "2024-12-01",
+      "versionDate": "2024-01-12",
       "versionDescription": "Initial release",
       "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
       "localizedDescription": "iTransmission is a new and revamped version of the original app. iTransmission is a fast, easy, and free BitTorrent client for iOS. This app is powered by the latest Transmission library and will be updated when the awesome Transmission team updates the Transmission library. \n\nFeatures of the app:\n- Download torrents from magnet or local files.\n- Download torrents from a built-in web browser.\n- Download magnet links from Safari.\n- Open external torrent files via the app.\n- Local notifications on download finish.\n- Select files to download or not.\n- Supports File app and file sharing.\n- Download in the background.\n- Many options to configure and customize your torrent downloading.\n- Dark Mode.\n\nSupports iOS 13 and up.",
