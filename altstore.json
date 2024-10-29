@@ -27,6 +27,19 @@
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "#14873d",
       "size": 79102641
+    },
+    {
+      "name": "iPogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "Niantic, Inc & iPogo",
+      "version": "0.335.1",
+      "versionDate": "2024-10-29",
+      "versionDescription": "Latest Version as of 29/10/24",
+      "downloadURL": "https://ipogo.app/download/ipogo-3.5.8.ipa",
+      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
+      "iconURL": "https://ipogo.app/repo/CydiaIcon.png",
+      "tintColor": "#0d5666",
+      "size": 153485851
     }
   ]
 }
