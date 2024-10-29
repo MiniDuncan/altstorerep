@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "iTransmission",
-      "bundleIdentifier": "com.plusmedia.itransmission",
+      "bundleIdentifier": "com.plusmediapps.itransmission",
       "developerName": "Alex Svitlov",
       "version": "1.0.0",
       "versionDate": "2024-01-12",
