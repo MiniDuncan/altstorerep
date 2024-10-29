@@ -14,7 +14,7 @@
       "iconURL": "https://miniduncan.github.io/altstorerep/itransmission-logo-200px.png",
       "tintColor": "#c223ad",
       "size": 3718662,
-      "screenshotURLS": [
+      "screenshotURLs": [
         "https://example.com/screenshots/itransmission1.png",
         "https://example.com/screenshots/itransmission2.png"
       ]
@@ -31,7 +31,7 @@
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "#14873d",
       "size": 79102641,
-      "screenshotURLS": [
+      "screenshotURLs": [
         "https://example.com/screenshots/spotifypp1.png",
         "https://example.com/screenshots/spotifypp2.png"
       ]
@@ -48,7 +48,7 @@
       "iconURL": "https://ipogo.app/repo/CydiaIcon.png",
       "tintColor": "#0d5666",
       "size": 153485851,
-      "screenshotURLS": [
+      "screenshotURLs": [
         "https://ipogo.app/assets/img/feature-iphone-1.png",
         "https://ipogo.app/assets/img/location-1.jpg",
         "https://ipogo.app/assets/img/location-2.jpg",
