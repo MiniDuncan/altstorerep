@@ -1,5 +1,7 @@
 {
   "name": "Dxncan Repository",
+  "subtitle": "Your go-to repository for iOS apps.",
+  "description": "Explore and install your favorite iOS applications effortlessly.",
   "identifier": "com.dxnc.repository",
   "apps": [
     {
@@ -7,12 +9,34 @@
       "bundleIdentifier": "com.alexsvitlov.iTransmission",
       "developerName": "Alex Svitlov",
       "version": "1.0.0",
-      "versionDate": "2024-01-01", 
+      "versionDate": "2024-01-01",
       "versionDescription": "Initial release",
       "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
       "localizedDescription": "A BitTorrent client for iOS.",
       "iconURL": "https://raw.githubusercontent.com/alexsvitlov/iTransmission/master/icon.png",
-      "tintColor": "#FF5733"
+      "tintColor": "#FF5733",
+      "screenshots": [
+        "https://example.com/screenshot1.png",
+        "https://example.com/screenshot2.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-01-01",
+          "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library."
+        }
+      }
     }
-  ]
+  ],
+  "website": "https://dxncanrepository.com",
+  "headerURL": "https://example.com/header.png"
 }
