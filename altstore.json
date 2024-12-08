@@ -77,6 +77,26 @@
         "https://d1nxzqpcg2bym0.cloudfront.net/itunes_connect/645859810/4c9aa7ae-2702-11e8-ac67-35db1025d929/640",
         "https://d1nxzqpcg2bym0.cloudfront.net/itunes_connect/645859810/4cf71bf6-2702-11e8-959f-3b754673c187/640"
       ]
+    },
+    {
+      "name": "EZFN",
+      "bundleIdentifier": "com.epicgames.fortnite",
+      "developerName": "Epic Games",
+      "version": "0.335.1",
+      "versionDate": "2024-12-08",
+      "versionDescription": "Latest Version as of 08/12/24",
+      "downloadURL": "https://ipogo.app/download/ipogo-3.5.8.ipa",
+      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
+      "iconURL": "https://ipogo.app/repo/CydiaIcon.png",
+      "tintColor": "#0d5666",
+      "size": 153485851,
+      "screenshotURLs": [
+        "https://ipogo.app/assets/img/feature-iphone-1.png",
+        "https://ipogo.app/assets/img/location-1.jpg",
+        "https://ipogo.app/assets/img/location-2.jpg",
+        "https://ipogo.app/assets/img/location-3.jpg",
+        "https://ipogo.app/assets/img/location-4.jpg"
+      ]
     }
   ]
 }
